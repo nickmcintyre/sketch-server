@@ -1,0 +1,28 @@
+{
+  "name": "sketch-server",
+  "version": "0.0.1",
+  "description": "A simple app for storing and replaying drawings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickmcintyre/sketch-server.git"
+  },
+  "keywords": [
+    "p5.js",
+    "express",
+    "drawing"
+  ],
+  "author": "Nick McIntyre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickmcintyre/sketch-server/issues"
+  },
+  "homepage": "https://github.com/nickmcintyre/sketch-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
